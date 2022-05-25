@@ -1,0 +1,23 @@
+{
+  "name": "my-first-repository",
+  "version": "1.0.0",
+  "description": "This is my first repository\r This is my first edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwingRipper/My-First-Repository.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SwingRipper/My-First-Repository/issues"
+  },
+  "homepage": "https://github.com/SwingRipper/My-First-Repository#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
